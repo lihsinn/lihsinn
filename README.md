@@ -2,7 +2,7 @@
 
 **Software Engineer | Computer Vision Enthusiast**  
 New Taipei City, Taiwan | 2–3 years experience  
-Seeking positions: Algorithm Engineer / Computer Vision Engineer / AOI Software Engineer / Image Processing Engineer
+Seeking positions: AOI Software Engineer / Machine Vision Engineer /Algorithm Engineer / Computer Vision Engineer /  / Image Processing Engineer
 
 ---
 
